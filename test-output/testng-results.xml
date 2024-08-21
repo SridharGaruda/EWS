@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-21T12:50:04 IST" name="Default suite" finished-at="2024-08-21T12:50:16 IST" duration-ms="12588">
+    <groups>
+    </groups>
+    <test started-at="2024-08-21T12:50:04 IST" name="Default test" finished-at="2024-08-21T12:50:16 IST" duration-ms="12588">
+      <class name="ewsPom.test.LoginTest">
+        <test-method is-config="true" signature="BrowserSetup()[pri:0, instance:ewsPom.test.LoginTest@4b672daa]" started-at="2024-08-21T12:50:04 IST" name="BrowserSetup" finished-at="2024-08-21T12:50:07 IST" duration-ms="2695" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetup -->
+        <test-method signature="logintest_InValidCredentials()[pri:0, instance:ewsPom.test.LoginTest@4b672daa]" started-at="2024-08-21T12:50:07 IST" name="logintest_InValidCredentials" finished-at="2024-08-21T12:50:07 IST" duration-ms="379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest_InValidCredentials -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:ewsPom.test.LoginTest@4b672daa]" started-at="2024-08-21T12:50:07 IST" name="TearDown" finished-at="2024-08-21T12:50:07 IST" duration-ms="262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="BrowserSetup()[pri:0, instance:ewsPom.test.LoginTest@4b672daa]" started-at="2024-08-21T12:50:07 IST" name="BrowserSetup" finished-at="2024-08-21T12:50:09 IST" duration-ms="1991" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetup -->
+        <test-method signature="logintest_InValidPassword()[pri:0, instance:ewsPom.test.LoginTest@4b672daa]" started-at="2024-08-21T12:50:09 IST" name="logintest_InValidPassword" finished-at="2024-08-21T12:50:10 IST" duration-ms="456" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest_InValidPassword -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:ewsPom.test.LoginTest@4b672daa]" started-at="2024-08-21T12:50:10 IST" name="TearDown" finished-at="2024-08-21T12:50:10 IST" duration-ms="206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="BrowserSetup()[pri:0, instance:ewsPom.test.LoginTest@4b672daa]" started-at="2024-08-21T12:50:10 IST" name="BrowserSetup" finished-at="2024-08-21T12:50:12 IST" duration-ms="2018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetup -->
+        <test-method signature="logintest_InValidUserID()[pri:0, instance:ewsPom.test.LoginTest@4b672daa]" started-at="2024-08-21T12:50:12 IST" name="logintest_InValidUserID" finished-at="2024-08-21T12:50:12 IST" duration-ms="305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest_InValidUserID -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:ewsPom.test.LoginTest@4b672daa]" started-at="2024-08-21T12:50:12 IST" name="TearDown" finished-at="2024-08-21T12:50:12 IST" duration-ms="183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="BrowserSetup()[pri:0, instance:ewsPom.test.LoginTest@4b672daa]" started-at="2024-08-21T12:50:12 IST" name="BrowserSetup" finished-at="2024-08-21T12:50:14 IST" duration-ms="2051" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserSetup -->
+        <test-method signature="logintest_ValidCredentials()[pri:0, instance:ewsPom.test.LoginTest@4b672daa]" started-at="2024-08-21T12:50:14 IST" name="logintest_ValidCredentials" finished-at="2024-08-21T12:50:16 IST" duration-ms="1685" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest_ValidCredentials -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:ewsPom.test.LoginTest@4b672daa]" started-at="2024-08-21T12:50:16 IST" name="TearDown" finished-at="2024-08-21T12:50:16 IST" duration-ms="288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- ewsPom.test.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
